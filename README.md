@@ -1,5 +1,11 @@
 # FER repozitorij
 
+## NOTE
+
+Svjestan sam da NASP, NUKSIG, RACFOR, TINF i možda još nešto takvo nisu uploadani - bit će ispravljeno rano ujutro, sad mi umire baterija na laptopu.
+
+---
+
 Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u tom slučaju, napravite Issue pa ću ispraviti problem što prije mogu :)
 
 
