@@ -160,7 +160,7 @@
 
 - [**Ergonomija u računarstvu**](https://www.github.com/studosi-fer/EUR)  ([**FER** link](https://www.fer.unizg.hr/predmet/eur))
 
-- [**eSTUDENT**](https://www.github.com/studosi-fer/eSTUDENT)  ([**FER** link](.)
+- [**eSTUDENT**](https://www.github.com/studosi-fer/eSTUDENT)
 
 - [**Financijska matematika**](https://www.github.com/studosi-fer/FINMAT)  ([**FER** link](https://www.fer.unizg.hr/predmet/finmat))
 
@@ -182,7 +182,7 @@
 
 - [**Fourierova analiza**](https://www.github.com/studosi-fer/FOURIER)  ([**FER** link](https://www.fer.unizg.hr/predmet/fouan))
 
-- [**Game Development**](https://www.github.com/studosi-fer/GameDev)  ([**FER** link](.))
+- [**Game Development**](https://www.github.com/studosi-fer/GameDev)
 
 - [**Geoinformacijski sustavi**](https://www.github.com/studosi-fer/GEOSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/geosus))
 
@@ -266,7 +266,7 @@
 
 - [**Linearna algebra**](https://www.github.com/studosi-fer/LINALG)  ([**FER** link](https://www.fer.unizg.hr/predmet/linalg))
 
-- [**Ljetne škole**](https://www.github.com/studosi-fer/LJETNE-SKOLE)  ([**FER** link](.))
+- [**Ljetne škole**](https://www.github.com/studosi-fer/LJETNE-SKOLE)
 
 - [**Lokalne mreže**](https://www.github.com/studosi-fer/LAN)  ([**FER** link](https://www.fer.unizg.hr/predmet/lokmre_a))
 
@@ -424,11 +424,11 @@
 
 - [**Ozvučenje**](https://www.github.com/studosi-fer/OZV)  ([**FER** link](https://www.fer.unizg.hr/predmet/ozv))
 
-- [**PMEDIA??? (nek neko kaže što je ovo ako zna)**](https://www.github.com/studosi-fer/PMEDIA)  ([**FER** link](.))
+- [**PMEDIA (ne znam što je ovo)**](https://www.github.com/studosi-fer/PMEDIA)  ([**FER** link](.))
 
-- [**POF (isto nemam pojma)**](https://www.github.com/studosi-fer/POF)  ([**FER** link](.))
+- [**POF (ne znam što je ovo)**](https://www.github.com/studosi-fer/POF)  ([**FER** link](.))
 
-- [**PPDOS (nemam pojma)**](https://www.github.com/studosi-fer/PPDOS)  ([**FER** link](.))
+- [**PPDOS (ne znam što je ovo)**](https://www.github.com/studosi-fer/PPDOS)  ([**FER** link](.))
 
 - [**Paralelno programiranje**](https://www.github.com/studosi-fer/PARPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/parpro))
 
@@ -496,7 +496,7 @@
 
 - [**Projekt iz programske potpore**](https://www.github.com/studosi-fer/PPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/pro))
 
-- [**Projekt: preddiplomski**](https://www.github.com/studosi-fer/PROJEKT)  ([**FER** link](.))
+- [**Projekt: preddiplomski**](https://www.github.com/studosi-fer/PROJEKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/pro))
 
 - [**Projektiranje digitalnih sustava**](https://www.github.com/studosi-fer/PDS)  ([**FER** link](https://www.fer.unizg.hr/predmet/pds))
 
@@ -554,7 +554,7 @@
 
 - [**Rješavanje optimizacijskih problema algoritmima evolucijskog računanja u Javi**](https://www.github.com/studosi-fer/OPTJAVA)  ([**FER** link](https://www.fer.unizg.hr/predmet/ropaeruj))
 
-- [**SUZUKS (nemam pojma)**](https://www.github.com/studosi-fer/SUZUKS)  ([**FER** link](.))
+- [**SUZUKS (ne nam što je ovo)**](https://www.github.com/studosi-fer/SUZUKS)
 
 - [**Satelitske komunikacijske tehnologije**](https://www.github.com/studosi-fer/SKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/skt))
 
