@@ -1,6 +1,9 @@
-# FER Repozitorij
+# FER repozitorij
 
-## WIP!
+Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u tom slučaju, napravite Issue pa ću ispraviti problem što prije mogu :)
+
+
+## A
 
 - [**Adaptivno i robusno upravljanje**](https://www.github.com/studosi-fer/ARU)  ([**FER** link](https://www.fer.unizg.hr/predmet/aru))
 
@@ -44,6 +47,8 @@
 
 - [**Automatsko upravljanje**](https://www.github.com/studosi-fer/AUPR)  ([**FER** link](https://www.fer.unizg.hr/predmet/autupr_b))
 
+## B
+
 - [**Baze podataka**](https://www.github.com/studosi-fer/BAZEPOD)  ([**FER** link](https://www.fer.unizg.hr/predmet/bazepod))
 
 - [**Biblijska teologija 1**](https://www.github.com/studosi-fer/BIBTEO)  ([**FER** link](https://www.fer.unizg.hr/predmet/bibteo))
@@ -59,6 +64,8 @@
 - [**Biometrijski sigurnosni sustavi**](https://www.github.com/studosi-fer/BSS)  ([**FER** link](https://www.fer.unizg.hr/predmet/bss))
 
 - [**Brze komunikacijske mreže**](https://www.github.com/studosi-fer/BKM)  ([**FER** link](https://www.fer.unizg.hr/predmet/bkm))
+
+## D
 
 - [**Daljinska istraživanja i radiometrija**](https://www.github.com/studosi-fer/DIR)  ([**FER** link](https://www.fer.unizg.hr/predmet/dir))
 
@@ -101,6 +108,8 @@
 - [**Društveni aspekti računalom posredovane komunikacije**](https://www.github.com/studosi-fer/DARPK)  ([**FER** link](https://www.fer.unizg.hr/predmet/darpk))
 
 - [**Duboko učenje**](https://www.github.com/studosi-fer/DUBUCE)  ([**FER** link](https://www.fer.unizg.hr/predmet/dubuce))
+
+## E
 
 - [**Ekonomija i ekologija radiokomunikacijskih sustava**](https://www.github.com/studosi-fer/EERS)  ([**FER** link](https://www.fer.unizg.hr/predmet/eers))
 
@@ -162,6 +171,8 @@
 
 - [**eSTUDENT**](https://www.github.com/studosi-fer/eSTUDENT)
 
+## F
+
 - [**Financijska matematika**](https://www.github.com/studosi-fer/FINMAT)  ([**FER** link](https://www.fer.unizg.hr/predmet/finmat))
 
 - [**Fizika 1**](https://www.github.com/studosi-fer/FIZ1)  ([**FER** link](https://www.fer.unizg.hr/predmet/fiz1))
@@ -182,6 +193,8 @@
 
 - [**Fourierova analiza**](https://www.github.com/studosi-fer/FOURIER)  ([**FER** link](https://www.fer.unizg.hr/predmet/fouan))
 
+## G
+
 - [**Game Development**](https://www.github.com/studosi-fer/GameDev)
 
 - [**Geoinformacijski sustavi**](https://www.github.com/studosi-fer/GEOSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/geosus))
@@ -190,9 +203,13 @@
 
 - [**Gospodarenje energijom i energetska učinkovitost**](https://www.github.com/studosi-fer/GEEU)  ([**FER** link](https://www.fer.unizg.hr/predmet/geeu))
 
+## H
+
 - [**Heurističke metode optimizacija**](https://www.github.com/studosi-fer/HMO)  ([**FER** link](https://www.fer.unizg.hr/predmet/hmo))
 
 - [**Hrvatski jezik u inženjerskoj praksi**](https://www.github.com/studosi-fer/HRVJEZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/hjuip))
+
+## I
 
 - [**Informacija, logika, jezici**](https://www.github.com/studosi-fer/ILJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ilj))
 
@@ -220,7 +237,11 @@
 
 - [**Izvori napajanja elektroničkih uređaja**](https://www.github.com/studosi-fer/INEU)  ([**FER** link](https://www.fer.unizg.hr/predmet/ineu))
 
+## J
+
 - [**Javna pokretna mreža**](https://www.github.com/studosi-fer/JPM)  ([**FER** link](https://www.fer.unizg.hr/predmet/jpm))
+
+## K
 
 - [**Kabelske mreže za interaktivne komunikacije**](https://www.github.com/studosi-fer/KMZIK)  ([**FER** link](https://www.fer.unizg.hr/predmet/kmzik))
 
@@ -244,6 +265,8 @@
 
 - [**Kvantna računala**](https://www.github.com/studosi-fer/KVARAC)  ([**FER** link](https://www.fer.unizg.hr/predmet/kvarac))
 
+## L
+
 - [**LabVIEW**](https://www.github.com/studosi-fer/LabVIEW)  ([**FER** link](https://www.fer.unizg.hr/predmet/labview))
 
 - [**Laboratorij Elektrotehnički sustavi i tehnologija 1**](https://www.github.com/studosi-fer/LABEST1)  ([**FER** link](https://www.fer.unizg.hr/predmet/lest1))
@@ -266,9 +289,13 @@
 
 - [**Linearna algebra**](https://www.github.com/studosi-fer/LINALG)  ([**FER** link](https://www.fer.unizg.hr/predmet/linalg))
 
+- [**Lokalne mreže**](https://www.github.com/studosi-fer/LAN)  ([**FER** link](https://www.fer.unizg.hr/predmet/lokmre_a))
+
+## Lj
+
 - [**Ljetne škole**](https://www.github.com/studosi-fer/LJETNE-SKOLE)
 
-- [**Lokalne mreže**](https://www.github.com/studosi-fer/LAN)  ([**FER** link](https://www.fer.unizg.hr/predmet/lokmre_a))
+## M
 
 - [**Matematika 1**](https://www.github.com/studosi-fer/MAT1)  ([**FER** link](https://www.fer.unizg.hr/predmet/mat1))
 
@@ -324,6 +351,8 @@
 
 - [**Multisenzorski sustavi i lokomocija**](https://www.github.com/studosi-fer/MSL)  ([**FER** link](https://www.fer.unizg.hr/predmet/msl))
 
+## N
+
 - [**Nadzemni vodovi i kabeli**](https://www.github.com/studosi-fer/NVK)  ([**FER** link](https://www.fer.unizg.hr/predmet/nvk))
 
 - [**Nadzor i daljinsko upravljanje elektroenergetskog sustava**](https://www.github.com/studosi-fer/NDUES)  ([**FER** link](https://www.fer.unizg.hr/predmet/ndues))
@@ -359,6 +388,8 @@
 - [**Nuklearno inženjerstvo**](https://www.github.com/studosi-fer/NUKINZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/nukinz))
 
 - [**Numerička matematika**](https://www.github.com/studosi-fer/NUMMAT)  ([**FER** link](https://www.fer.unizg.hr/predmet/nummat))
+
+## O
 
 - [**Objektno oblikovanje**](https://www.github.com/studosi-fer/OOBL)  ([**FER** link](https://www.fer.unizg.hr/predmet/objobl))
 
@@ -424,11 +455,7 @@
 
 - [**Ozvučenje**](https://www.github.com/studosi-fer/OZV)  ([**FER** link](https://www.fer.unizg.hr/predmet/ozv))
 
-- [**PMEDIA (ne znam što je ovo)**](https://www.github.com/studosi-fer/PMEDIA)  ([**FER** link](.))
-
-- [**POF (ne znam što je ovo)**](https://www.github.com/studosi-fer/POF)  ([**FER** link](.))
-
-- [**PPDOS (ne znam što je ovo)**](https://www.github.com/studosi-fer/PPDOS)  ([**FER** link](.))
+## P
 
 - [**Paralelno programiranje**](https://www.github.com/studosi-fer/PARPRO)  ([**FER** link](https://www.fer.unizg.hr/predmet/parpro))
 
@@ -440,7 +467,11 @@
 
 - [**Platforma Java i potporne tehnologije otvorenog koda u poslovnom okruženju**](https://www.github.com/studosi-fer/PJPTOKUPO)  ([**FER** link](https://www.fer.unizg.hr/predmet/pjptokupo))
 
+- [**PMEDIA (ne znam što je ovo)**](https://www.github.com/studosi-fer/PMEDIA)  ([**FER** link](.))
+
 - [**Poduzetništvo i izvoz u visokim tehnologijama**](https://www.github.com/studosi-fer/PIUVT)  ([**FER** link](https://www.fer.unizg.hr/predmet/piuvt))
+
+- [**POF (ne znam što je ovo)**](https://www.github.com/studosi-fer/POF)  ([**FER** link](.))
 
 - [**Pokretljivost u mrežama**](https://www.github.com/studosi-fer/PUM)  ([**FER** link](https://www.fer.unizg.hr/predmet/pum))
 
@@ -455,6 +486,8 @@
 - [**Pouzdanost telekomunikacijske mreže**](https://www.github.com/studosi-fer/PTM)  ([**FER** link](https://www.fer.unizg.hr/predmet/ptm))
 
 - [**Povijesni tijek hrvatske kulture**](https://www.github.com/studosi-fer/PTHK)  ([**FER** link](https://www.fer.unizg.hr/predmet/pthk))
+
+- [**PPDOS (ne znam što je ovo)**](https://www.github.com/studosi-fer/PPDOS)  ([**FER** link](.))
 
 - [**Praktikum automatizacije**](https://www.github.com/studosi-fer/PRAUT)  ([**FER** link](https://www.fer.unizg.hr/predmet/praaut))
 
@@ -510,6 +543,8 @@
 
 - [**Proračun elektroenergetskih mreža**](https://www.github.com/studosi-fer/PEM)  ([**FER** link](https://www.fer.unizg.hr/predmet/pem))
 
+## R
+
 - [**Radarski sustavi**](https://www.github.com/studosi-fer/RADSUS)  ([**FER** link](https://www.fer.unizg.hr/predmet/radsus))
 
 - [**Radijske pristupne mreže**](https://www.github.com/studosi-fer/RPM)  ([**FER** link](https://www.fer.unizg.hr/predmet/rpm))
@@ -554,6 +589,8 @@
 
 - [**Rješavanje optimizacijskih problema algoritmima evolucijskog računanja u Javi**](https://www.github.com/studosi-fer/OPTJAVA)  ([**FER** link](https://www.fer.unizg.hr/predmet/ropaeruj))
 
+## S
+
 - [**SUZUKS (ne nam što je ovo)**](https://www.github.com/studosi-fer/SUZUKS)
 
 - [**Satelitske komunikacijske tehnologije**](https://www.github.com/studosi-fer/SKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/skt))
@@ -590,7 +627,11 @@
 
 - [**Sustavi za rad u stvarnom vremenu**](https://www.github.com/studosi-fer/SZRUSV)  ([**FER** link](https://www.fer.unizg.hr/predmet/szrusv))
 
+## Š
+
 - [**Šah**](https://www.github.com/studosi-fer/SAH)  ([**FER** link](https://www.fer.unizg.hr/predmet/sah))
+
+## T
 
 - [**Tehnika visokog napona**](https://www.github.com/studosi-fer/TVN)  ([**FER** link](https://www.fer.unizg.hr/predmet/tvn))
 
@@ -622,7 +663,7 @@
 
 - [**Tržište električne energije**](https://www.github.com/studosi-fer/TEE)  ([**FER** link](https://www.fer.unizg.hr/predmet/tee))
 
-- [**USE (mislim da su neki stručni izleti)**](https://www.github.com/studosi-fer/USE)  ([**FER** link](.))
+## U
 
 - [**Ugradbeni računalni sustavi**](https://www.github.com/studosi-fer/URS)  ([**FER** link](https://www.fer.unizg.hr/predmet/urs))
 
@@ -644,6 +685,8 @@
 
 - [**Upravljanje učinskim pretvaračima**](https://www.github.com/studosi-fer/UUP)  ([**FER** link](https://www.fer.unizg.hr/predmet/uup))
 
+- [**USE (mislim da su neki stručni izleti)**](https://www.github.com/studosi-fer/USE)  ([**FER** link](.))
+
 - [**Uvod u (matematičku) teoriju kaosa za inženjere**](https://www.github.com/studosi-fer/KAOS)  ([**FER** link](https://www.fer.unizg.hr/predmet/uumtkzi_a))
 
 - [**Uvod u bridž**](https://www.github.com/studosi-fer/BRIDZ)  ([**FER** link](https://www.fer.unizg.hr/predmet/bridz))
@@ -660,7 +703,7 @@
 
 - [**Učinska elektronika**](https://www.github.com/studosi-fer/UCIELE)  ([**FER** link](https://www.fer.unizg.hr/predmet/uciel))
 
-- [**VLSI tehnologija**](https://www.github.com/studosi-fer/VLSTEH)  ([**FER** link](https://www.fer.unizg.hr/predmet/vlsteh))
+## V
 
 - [**Videokomunikacijske tehnologije**](https://www.github.com/studosi-fer/VIDEO)  ([**FER** link](https://www.fer.unizg.hr/predmet/vidteh))
 
@@ -676,11 +719,17 @@
 
 - [**Vještine komuniciranja**](https://www.github.com/studosi-fer/VJEKOM)  ([**FER** link](https://www.fer.unizg.hr/predmet/vjekom))
 
+- [**VLSI tehnologija**](https://www.github.com/studosi-fer/VLSTEH)  ([**FER** link](https://www.fer.unizg.hr/predmet/vlsteh))
+
 - [**Vođenje elektroenergetske mreže**](https://www.github.com/studosi-fer/VEM)  ([**FER** link](https://www.fer.unizg.hr/predmet/vem))
 
 - [**Vođenje i upravljanje plovilima**](https://www.github.com/studosi-fer/VUP)  ([**FER** link](https://www.fer.unizg.hr/predmet/vup))
 
-- [**WOLFRAM (mislim da ovo više ne postoji)**](https://www.github.com/studosi-fer/WOLFRAM)  ([**FER** link](.))
+## W
+
+- [**WOLFRAM (mislim da ovo više ne postoji)**](https://www.github.com/studosi-fer/WOLFRAM)
+
+## Z
 
 - [**Zaštita elektroenergetskog sustava**](https://www.github.com/studosi-fer/ZES)  ([**FER** link](https://www.fer.unizg.hr/predmet/zes))
 
