@@ -5,8 +5,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 # Sadržaj
 
-- [1. Predmeti](https://github.com/studosi/FER/README.md#Predmeti)
-- [2. Promjene](https://github.com/studosi/FER/README.md#Promjene)
+- [1. Predmeti](https://github.com/studosi/FER/README.md#1-Predmeti)
+- [2. Promjene](https://github.com/studosi/FER/README.md#2-Promjene)
 
 
 # 1. Predmeti
