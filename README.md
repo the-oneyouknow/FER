@@ -1,13 +1,15 @@
 # FER repozitorij
 
-## NOTE
-
-Svjestan sam da NASP, NUKSIG, RACFOR, TINF i možda još nešto takvo nisu uploadani - bit će ispravljeno rano ujutro, sad mi umire baterija na laptopu.
-
----
 
 Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u tom slučaju, napravite Issue pa ću ispraviti problem što prije mogu :)
 
+# Sadržaj
+
+- [1. Predmeti](https://github.com/studosi/FER/edit/master/README.md#Predmeti)
+- [2. Promjene](https://github.com/studosi/FER/edit/master/README.md#Promjene)
+
+
+# 1. Predmeti
 
 ## A
 
@@ -746,3 +748,7 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 - [**Zvuk i okoliš**](https://www.github.com/studosi-fer/ZIO)  ([**FER** link](https://www.fer.unizg.hr/predmet/zio))
 
 - [**Zvuk i računala**](https://www.github.com/studosi-fer/ZIR)  ([**FER** link](https://www.fer.unizg.hr/predmet/zir))
+
+# 2. Promjene
+
+- 20200311[0] - Dodani NASP, NUKSIG, RACFOR, TINF.
