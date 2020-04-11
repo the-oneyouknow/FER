@@ -1,0 +1,24 @@
+[submodule "ARU"]
+	path = ARU
+	url = https://github.com/studosi-fer/ARU
+[submodule "AKUPRO"]
+	path = AKUPRO
+	url = https://github.com/studosi-fer/AKUPRO
+[submodule "ALSU"]
+	path = ALSU
+	url = https://github.com/studosi-fer/ALSU
+[submodule "AZRDS"]
+	path = AZRDS
+	url = https://github.com/studosi-fer/AZRDS
+[submodule "ASP"]
+	path = ASP
+	url = https://github.com/studosi-fer/ASP
+[submodule "AES"]
+	path = AES
+	url = https://github.com/studosi-fer/AES
+[submodule "AOA"]
+	path = AOA
+	url = https://github.com/studosi-fer/AOA
+[submodule "APT"]
+	path = APT
+	url = https://github.com/studosi-fer/APT
