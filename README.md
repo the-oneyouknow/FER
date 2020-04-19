@@ -575,6 +575,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Razvoj primijenjene programske potpore**](https://www.github.com/studosi-fer/RPPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rppp))
 
+- [**Razvoj programske potpore za web i pokretne uređaje**](https://www.github.com/studosi-fer/RPPZWIPU)  ([**FER** link](https://www.fer.unizg.hr/predmet/rppzwpu))
+
 - [**Razvoj telekomunikacijske programske podrške**](https://www.github.com/studosi-fer/RTPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/rtpp))
 
 - [**Razvoj usluga i aplikacija za operacijski sustav Android**](https://www.github.com/studosi-fer/RUAZOSA)  ([**FER** link](https://www.fer.unizg.hr/predmet/ruazosa))
