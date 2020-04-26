@@ -535,6 +535,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 
 - [**Programske paradigme i jezici**](https://www.github.com/studosi-fer/PPJ)  ([**FER** link](https://www.fer.unizg.hr/predmet/ppj))
 
+- [**Programski jezik Go**](https://www.github.com/studosi-fer/PJG)   ([**FER** link](https://www.fer.unizg.hr/predmet/pjg))
+
 - [**Projekt iz programske potpore**](https://www.github.com/studosi-fer/PPP)  ([**FER** link](https://www.fer.unizg.hr/predmet/pro))
 
 - [**Projekt: preddiplomski**](https://www.github.com/studosi-fer/PROJEKT)  ([**FER** link](https://www.fer.unizg.hr/predmet/pro))
